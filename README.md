@@ -64,6 +64,4 @@ Example record:
 - This is a learning project. It has no authentication, so anyone who knows an account number can use it. Don't use it for real money.
 - Balances are whole numbers only.
 
-## License
 
-Choose a license, for example MIT, and add a `LICENSE` file.
