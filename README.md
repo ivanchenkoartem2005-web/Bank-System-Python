@@ -43,10 +43,10 @@ Example record:
 
 ```json
 {
-    "Owner Name": "Artem",
+    "Owner Name": "Dan_1",
     "Acc Number": 2525,
     "Balance": 6767,
-    "Transfer History": ["+100$ Deposit", "-50$ Transfer to Artyr"]
+    "Transfer History": ["+100$ Deposit", "-50$ Transfer to Dan_2"]
 }
 ```
 
